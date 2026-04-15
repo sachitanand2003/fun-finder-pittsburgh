@@ -25,9 +25,9 @@ A data-driven analysis using three City of Pittsburgh datasets to determine whic
 
 | Dataset | Description | Link |
 |---|---|---|
-| City of Pittsburgh Parks | Locations and details of all City parks | https://data.wprdc.org/dataset/city-parks |
-| City of Pittsburgh Playgrounds | Locations and details of all City playgrounds | https://data.wprdc.org/dataset/playgrounds |
-| City of Pittsburgh Courts and Rinks | Locations and details of all City courts and rinks | https://data.wprdc.org/dataset/courts-and-rinks |
+| City of Pittsburgh Parks | Locations and details of all City parks | https://data.wprdc.org/dataset/parks |
+| City of Pittsburgh Playgrounds | Locations and details of all City playgrounds | https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367 |
+| City of Pittsburgh Courts and Rinks | Locations and details of all City courts and rinks | https://data.wprdc.org/dataset/city-of-pittsburgh-courts/resource/a5b71bfa-840c-4c86-8f43-07a9ae854227 |
 
 ---
 
