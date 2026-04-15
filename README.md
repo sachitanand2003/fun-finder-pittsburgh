@@ -1,0 +1,41 @@
+# Fun Finder Pittsburgh 🎉
+
+**Team Name:** Team Fun  
+**Canvas Group Number:** Group 4
+
+---
+
+## Team Members
+
+| Name | Email |
+|---|---|
+| Sachit Anand | saa250@pitt.edu |
+| Osarumen Okhiku | oso36@pitt.edu |
+| Rhonda Ojongmboh | rho8@pitt.edu |
+
+---
+
+## Repository Overview
+
+A data-driven analysis using three City of Pittsburgh datasets to determine which Pittsburgh neighborhood is the **most fun**, measured by the combined count of parks, playgrounds, and city courts/rinks per neighborhood.
+
+---
+
+## Datasets Used
+
+| Dataset | Description | Link |
+|---|---|---|
+| City of Pittsburgh Parks | Locations and details of all City parks | https://data.wprdc.org/dataset/city-parks |
+| City of Pittsburgh Playgrounds | Locations and details of all City playgrounds | https://data.wprdc.org/dataset/playgrounds |
+| City of Pittsburgh Courts and Rinks | Locations and details of all City courts and rinks | https://data.wprdc.org/dataset/courts-and-rinks |
+
+---
+
+## Notebook Guide
+
+| Notebook | Author | Sub-metric |
+|---|---|---|
+| `sachit_parks.ipynb` | Sachit Anand | Parks per neighborhood |
+| `rhonda_playgrounds.ipynb` | Rhonda Ojongmboh | Playgrounds per neighborhood |
+| `osarumen_courts_rinks.ipynb` | Osarumen Okhiku | Courts & Rinks per neighborhood |
+| `group4_final.ipynb` | All members | Combined metric + final answer |
