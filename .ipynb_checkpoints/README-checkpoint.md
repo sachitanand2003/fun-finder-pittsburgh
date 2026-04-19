@@ -35,7 +35,7 @@ A data-driven analysis using three City of Pittsburgh datasets to determine whic
 
 | Notebook | Author | Sub-metric |
 |---|---|---|
-| `sachit_parks.ipynb` | Sachit Anand | Parks per neighborhood |
-| `rhonda_playgrounds.ipynb` | Rhonda Ojongmboh | Playgrounds per neighborhood |
-| `osarumen_courts_rinks.ipynb` | Osarumen Okhiku | Courts & Rinks per neighborhood |
-| `group4_final.ipynb` | All members | Combined metric + final answer |
+| `sachit_parks_FINAL.ipynb` | Sachit Anand | Parks per neighborhood |
+| `rhonda_playgrounds_FINAL.ipynb` | Rhonda Ojongmboh | Playgrounds per neighborhood |
+| `osarumen_courts_rinks_FINAL.ipynb` | Osarumen Okhiku | Courts & Rinks per neighborhood |
+| `group4_final_FINAL.ipynb` | All members | Combined metric + final answer |
